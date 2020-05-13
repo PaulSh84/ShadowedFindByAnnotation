@@ -8,7 +8,7 @@
 ####2. Create Page object class including new Annotation as shown in
 ``` /src/main/java/ShadowDomPage.java ```
 
-####3. Create CustomPageFactory, add CustomLocatorFactory to choose between DefaultElementLocators.
+####3. Create CustomPageFactory, add CustomLocatorFactory to choose between DefaultElementLocator and CustomElementLocator.
 ``` /src/main/java/shadowdom/*```
 
 ####4. Create CustomFieldDecorator and update isDecoratableList() method to include your custom annotation.
