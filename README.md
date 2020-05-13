@@ -1,4 +1,4 @@
-# Custom ShadowDom FindBy Annotation
+# Custom ShadowDom FindBy Annotation (Extending Selenium FindBy Annotation)
 
 ### How to extend Selenium FindBy Annotation?
 
